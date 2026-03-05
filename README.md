@@ -95,8 +95,6 @@ Run the program with the name of the fractal as an argument:
 
 ## 🧑‍🎨🧑‍🎨🧑‍🎨
 
----
-
 
 <img width="694" height="733" alt="fractale julia github" src="https://github.com/user-attachments/assets/1ed7e70c-a628-47a0-b24b-41336938232e" />
 
