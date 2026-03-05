@@ -95,19 +95,28 @@ Run the program with the name of the fractal as an argument:
 
 ## 🧑‍🎨🧑‍🎨🧑‍🎨
 
+---
+
+
 <img width="694" height="733" alt="fractale julia github" src="https://github.com/user-attachments/assets/1ed7e70c-a628-47a0-b24b-41336938232e" />
+
 
 ```bash
 ./fractol julia -0.4 0.7
 
 ```
 
+---
+
 <img width="696" height="732" alt="fractale mandelbrot github" src="https://github.com/user-attachments/assets/02429472-9e55-4ba6-89ae-36cd0f3af61b" />
+
 
 ```bash
 ./fractol mandelbrot
 
 ```
+
+---
 
 <img width="689" height="734" alt="fractale burning ship github" src="https://github.com/user-attachments/assets/74658b99-48e4-4175-b36e-317f632b1d23" />
 
