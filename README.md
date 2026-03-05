@@ -73,7 +73,7 @@ Run the program with the name of the fractal as an argument:
 ```bash
 ./fractol mandelbrot
 ./fractol julia
-./fractol burningship
+./fractol ship
 
 ```
 
