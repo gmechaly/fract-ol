@@ -1,17 +1,19 @@
 # fract-ol - @42Born2Code
 
+---
+
 ## ✏️ A personal word
 
 fract-ol has been one of my favorite project from the early 42 Common Core. It allies some maths, some thinking logic and you can play with the program in real time. This was the first time I ever used inputs to control a program, so it was really fun to experience this new universe. It led me to do this project's bonuses and even implemented some functionnalities that were not required by the subject.
 Grade : 125/100
+
+---
 
 ## 💡 About
 
 **Fract-ol** is a project centered around the exploration of the infinite beauty of fractals. Using the **MiniLibX** graphical library, this program renders complex mathematical sets in real-time, allowing users to navigate through them.
 
 The project focuses on **mathematical precision**, **event handling** (mouse and keyboard), and **color rendering**.
-
-> "Infinite complexity born from simple mathematical rules."
 
 ---
 
